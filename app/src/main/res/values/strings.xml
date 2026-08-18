@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sensi Analytics 1.0</string>
+    <string name="title_device_info">Thông tin thiết bị</string>
+    <string name="title_result">Kết quả đề xuất</string>
+    <string name="title_history">Lịch sử (3 lần gần nhất)</string>
+    <string name="btn_analyze">Phân tích thiết bị</string>
+    <string name="btn_apply">Áp dụng tối ưu</string>
+    <string name="btn_restore">Phục hồi cài đặt</string>
+    <string name="note_apply_disclaimer">Đã tối ưu animation, tiến trình nền, độ nhạy chạm và ưu tiên tần số quét cao nhất mà màn hình hỗ trợ. Lưu ý: không tạo Hz giả trên màn hình không hỗ trợ, và không thay đổi cơ chế giật/hồi súng của game.</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Nền gradient tối cho toàn màn hình -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <gradient
+        android:type="linear"
+        android:angle="135"
+        android:startColor="@color/bg_dark_start"
+        android:centerColor="#171226"
+        android:endColor="@color/bg_dark_end" />
+</shape>

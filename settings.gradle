@@ -1,0 +1,18 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        // Repo chứa thư viện Shizuku API
+        maven { url 'https://jitpack.io' }
+    }
+}
+rootProject.name = "Sensi Analytics"
+include ':app'
